@@ -8,5 +8,5 @@ with col1:
   st.write("Puppies are cute")
 with col2:
   st.subheader("Twin Dogs")
-  st.image("C:\Users\dell\Downloads\puppy.jpg",caption="Twin Cats",width=300,use_column_width=True)
+  st.image("C:\Users\dell\Downloads\twindogs.jpg",caption="Twin Cats",width=300,use_column_width=True)
   st.write("Twin Dogs are cute")
